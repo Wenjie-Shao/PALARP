@@ -16,8 +16,6 @@
     "hexo-renderer-jade": "^0.4.1",
     "hexo-renderer-marked": "^1.0.1",
     "hexo-renderer-stylus": "^0.3.3",
-    "hexo-server": "^0.3.3",
-    "or": "^0.2.0",
-    "yarn": "^1.17.3"
+    "hexo-server": "^0.3.3"
   }
 }
