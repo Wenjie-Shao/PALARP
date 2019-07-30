@@ -8,7 +8,8 @@
   "scripts": {
     "dev": "hexo s",
     "start": "cnpm i && pm2 startOrRestart process.yml",
-    "build": "hexo d"
+    "build": "hexo d",
+    "deploy": "sh admin@60.205.228.116 'sh update_palarp.sh'"
   },
   "dependencies": {
     "hexo": "^3.9.0",
